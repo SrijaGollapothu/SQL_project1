@@ -1,6 +1,6 @@
 # SQL_project1
          MYSQL Portfolio Project(Car Dekho)
-Description
+Description-
 Understanding to update and delete , and handle transactions.
 Understanding aggregate functions and Grouping the data using Group by clause.
 Understanding of filtering techniques and sorting in SQL queries
