@@ -1,6 +1,6 @@
 # SQL_Mini Project
 
-         **MYSQL Portfolio Project(Car Dekho)**
+         MYSQL Portfolio Project(Car Dekho)
 **Description**
 
 Understanding to update and delete , and handle transactions.
